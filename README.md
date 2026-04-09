@@ -14,34 +14,34 @@ Sherpa reimagines the logistics industry by creating a decentralized protocol wh
 
 ### The Three Pillars
 
-**🏭 Shippers**  
+** Shippers**  
 Create shipment requests with detailed specifications including dimensions, geography, collateral requirements, and deadlines. Each shipment is recorded immutably with transparent pricing and requirements.
 
-**🔄 Forwarders**  
+** Forwarders**  
 Act as market makers in the logistics ecosystem, purchasing shipments from shippers and reselling them to carriers. They manage risk, aggregate demand, and facilitate price discovery.
 
-**🚚 Carriers**  
+** Carriers**  
 Compete for shipments through a bidding mechanism, offering competitive rates and delivery timelines. Once accepted, they execute the physical delivery and receive payment through smart contract escrow.
 
 ## Core Features
 
-### 🔐 Trustless Escrow System
+###  Trustless Escrow System
 
 Smart contracts automatically handle payment flows, holding funds until delivery confirmation. Collateral and penalty mechanisms ensure accountability without requiring traditional legal frameworks.
 
-### 💬 End-to-End Encrypted Messaging
+###  End-to-End Encrypted Messaging
 
 Implements Diffie-Hellman key exchange for secure communication channels. While shipment data and transactions are publicly auditable, private messages between parties are encrypted, ensuring sensitive delivery instructions and coordination remain confidential.
 
-### 🎯 Competitive Bidding Mechanism
+###  Competitive Bidding Mechanism
 
 Carriers submit offers with custom payment amounts and timeout windows. The market-driven approach ensures competitive pricing while maintaining service quality through reputation systems.
 
-### 🗺️ Geographic Intelligence
+###  Geographic Intelligence
 
 Full integration with MapLibre GL for real-time shipment visualization. Supports precise location data (latitude/longitude) with human-readable location names for both origin and destination.
 
-### ⚡ High-Performance Infrastructure
+###  High-Performance Infrastructure
 
 Built on high-throughput distributed ledger infrastructure with sub-second transaction finality and minimal fees, making micro-transactions economically viable and enabling real-time logistics coordination.
 
@@ -198,23 +198,23 @@ sherpa/
 
 ## Use Cases
 
-### 🛒 E-commerce Integration
+###  E-commerce Integration
 
 Online marketplaces can integrate Sherpa to offer decentralized shipping, reducing costs and increasing transparency for customers.
 
-### 🌍 Cross-Border Trade
+###  Cross-Border Trade
 
 International shipments benefit from programmable settlements, eliminating currency conversion fees and banking delays through automated payment rails.
 
-### 📦 Supply Chain Transparency
+###  Supply Chain Transparency
 
 Complete immutable record of shipment lifecycle provides transparent audit trail for compliance and quality assurance.
 
-### 🏘️ Last-Mile Networks
+###  Last-Mile Networks
 
 Local carriers can participate in a global marketplace, creating peer-to-peer delivery networks for final-leg distribution.
 
-### 🚢 Freight Forwarding
+###  Freight Forwarding
 
 Automates traditional freight forwarding with smart contracts, reducing administrative overhead and settlement delays.
 
